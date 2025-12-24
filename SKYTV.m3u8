@@ -1,0 +1,27 @@
+# =======================================================
+# Last Update: 2025-12-27 12:29pm
+# =======================================================
+
+#EXTINF:-1 tvg-name="MONO 29" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png"
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Berita RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png"
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-name="Awani" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png"
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://www.youtube.com/watch?v=mkVyNaGee8A
+
+#EXTINF:-1 tvg-name="Awani(Back up)" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png"
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-name="RTM1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/330px-Logo_of_TV1_%28Malaysia%29.svg.png"
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-name="RTM2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/330px-TV2_%28Malaysia%29_logo.svg.png"
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
