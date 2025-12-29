@@ -29,6 +29,9 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 #EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="CCTV4" tvg-logo="https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="Digital TV",CCTV4
 https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/330px-BBC_Earth_2023.svg.png",BBC Earth
+https://apollo.production-public.tubi.io/live/bbc-earth-JLrT7l.m3u8?ap.debug=0&ap.pt=0&ap.sid=366c4165-862b-436f-a112-36acea79e5d0&ap.skip_fallback=0
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/330px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
@@ -41,6 +44,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 # out to avoid PotPlayer error messages.
 #EXTINF:-1 tvg-name="Awani" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png",Awani (YouTube - commented)
 #https://www.youtube.com/watch?v=mkVyNaGee8A
+
 
 
 
