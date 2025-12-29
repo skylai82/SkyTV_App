@@ -29,6 +29,11 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 #EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="CCTV4" tvg-logo="https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="Digital TV",CCTV4
 https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/330px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
+https://kwangsoo.myeffect.net/8tv
+
+
+
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="MONO 6.th" tvg-name="MONO 6" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Digital TV",MONO 29
 # (original stream was marked off / unavailable)
 # (Off) original: https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
@@ -38,6 +43,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 # out to avoid PotPlayer error messages.
 #EXTINF:-1 tvg-name="Awani" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png",Awani (YouTube - commented)
 #https://www.youtube.com/watch?v=mkVyNaGee8A
+
 
 
 
