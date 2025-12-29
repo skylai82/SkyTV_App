@@ -32,7 +32,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/330px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08-480H-init.m4v
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
 
 
@@ -46,6 +45,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 # out to avoid PotPlayer error messages.
 #EXTINF:-1 tvg-name="Awani" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png",Awani (YouTube - commented)
 #https://www.youtube.com/watch?v=mkVyNaGee8A
+
 
 
 
