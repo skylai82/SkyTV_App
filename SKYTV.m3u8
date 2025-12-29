@@ -1,29 +1,29 @@
 # =======================================================
-# Last Update: 2025-12-27 12:29pm
+# Last Update: 2025-12-29 12:29pm
 # =======================================================
 
 
-#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="Berita RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png"
+#EXTINF:-1 tvg-name="Berita RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png"
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="Awani" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png"
+#EXTINF:-1 tvg-name="Awani" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png"
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://www.youtube.com/watch?v=mkVyNaGee8A
 
-#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="Awani(Back up)" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png"
+#EXTINF:-1 tvg-name="Awani(Back up)" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png"
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="RTM1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/330px-Logo_of_TV1_%28Malaysia%29.svg.png"
+#EXTINF:-1 tvg-name="RTM1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/330px-Logo_of_TV1_%28Malaysia%29.svg.png"
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="RTM2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/330px-TV2_%28Malaysia%29_logo.svg.png"
+#EXTINF:-1 tvg-name="RTM2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/330px-TV2_%28Malaysia%29_logo.svg.png"
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="one31" tvg-logo="https://en.wikipedia.org/wiki/ONE31#/media/File%3AOne_31_Logo.png",One 31 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/ONE31#/media/File%3AOne_31_Logo.png",One 31 
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
@@ -34,6 +34,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="MONO 6.th" tvg-name="MONO 6" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Digital TV", MONO 29
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 #(Off)https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
+
 
 
 
