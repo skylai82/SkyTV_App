@@ -23,7 +23,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="one31" tvg-logo="https://en.wikipedia.org/wiki/ONE31#/media/File%3AOne_31_Logo.png" group-title="Digital TV",One 31 
+#EXTINF:-1 tvg-chno=" " ch-number=" " tvg-id=" " tvg-name="one31" tvg-logo="https://en.wikipedia.org/wiki/ONE31#/media/File%3AOne_31_Logo.png",One 31 
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
@@ -34,6 +34,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="MONO 6.th" tvg-name="MONO 6" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Digital TV", MONO 29
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 #(Off)https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
+
 
 
 
