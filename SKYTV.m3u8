@@ -38,11 +38,15 @@ https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
 #EXTINF:-1 tvg-logo="",中天新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 
+#EXTINF:-1 tvg-logo="",TVB(1)
+http://r.jdshipin.com/qClQf
+
 # If you need the YouTube-based Awani item available, uncomment and be aware PotPlayer
 # may not play it natively (requires youtube-dl or similar integration). It's commented
 # out to avoid PotPlayer error messages.
 #EXTINF:-1 tvg-name="Awani" tvg-logo="https://en.wikipedia.org/wiki/Astro_Awani#/media/File:Astro_Awani_(2025).png",Awani (YouTube - commented)
 #https://www.youtube.com/watch?v=mkVyNaGee8A
+
 
 
 
