@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FIFA Live(Tv1)" 
-https://unifaitv.space/tv1.html
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV1)/master.mpd
 #EXTINF:-1 tvg-name="FIFA Live(Tv2)" 
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/HLS/tv2.m3u8?id=2
 #EXTINF:-1 tvg-name="FIFA Live(RTM Sukan+)" 
