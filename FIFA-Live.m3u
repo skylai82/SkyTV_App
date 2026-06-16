@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FIFA Live(Tv1)" 
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-avc1_2500000=2179564757.m3u8
 #EXTINF:-1 tvg-name="FIFA Live(Ch1)" 
 https://tfws1geadrmttge3nhcjwgwzdoce.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60226920-hydra-wsu/playlist.m3u8?wsSecret=38b245f8e730036e255070855764fa71&wsABSTime=6a320dec&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjExMy4yMTEuMTE3LjI0NyIsInVpZCI6IjYwMjI2OTIwIiwiaWF0IjoxNzgxNjUxNDQzLCJleHAiOjE3ODE2NTIwNDN9.38JAKiLOE5eXJ94Estw28b24u1T6rgTo4hlQzh_2u3o&opt=1&wsSession=fcf343ae7fb26600172fb16e-178165149503422&wsIPSercert=8603181abded5ffaa31c082cd34604e9&wsBindIP=2&wsserid=1168148963313088887
 #EXTINF:-1 tvg-name="FIFA Live(Ch2)" 
