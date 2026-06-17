@@ -4,7 +4,7 @@ https://live.mana2.my/Tv1/index.m3u8?auth_key=1781672547-c5131736f5934ddba9a57f7
 #EXTINF:-1 tvg-name="FIFA(Tv2)" 
 https://live.mana2.my/Tv2/index.m3u8?auth_key=1781672633-9f498f5cc50c43a18c2ca3f7e1bc4916-0-43198b59ab02c857754b3ad65fa92410&token=1781672633-9f498f5cc50c43a18c2ca3f7e1bc4916-0-43198b59ab02c857754b3ad65fa92410
 #EXTINF:-1 tvg-name="RTM Sukan+" 
-https://live.mana2.my/SukanRtm/index.m3u8?auth_key=1781672670-309e557c11da41798066725eacfa20b7-0-683b6c8f21f4f2249c9a71b485ca979a&token=1781672670-309e557c11da41798066725eacfa20b7-0-683b6c8f21f4f2249c9a71b485ca979a
+https://live.mana2.my/SukanRtm/tracks-v2a1/mono.m3u8?token=1781673222-0e19c12bf6ec45948ccfefecc1a16a94-0-75c4ef1d5bf608b5839d4c75ebb32664&auth_key=1781673222-0e19c12bf6ec45948ccfefecc1a16a94-0-0e965c656d97a3eb44035cfdd4ee1826
 #EXTINF:-1 tvg-name="FIFA(Okey)" 
 https://live.mana2.my/TvOkey/index.m3u8?auth_key=1781672703-f65fe6af320b4aa3b461bfe884f23752-0-4c8b71e8b285da8dc91468f66e4949e1&token=1781672703-f65fe6af320b4aa3b461bfe884f23752-0-4c8b71e8b285da8dc91468f66e4949e1
 #EXTINF:-1 tvg-name="FIFA Live(Ch1)" 
