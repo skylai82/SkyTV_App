@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FIFA(Tv1)" 
-https://live.mana2.my/Tv1/index.m3u8?auth_key=1781672547-c5131736f5934ddba9a57f7ca3b971c9-0-9508f7f6c989f3e40471daca832ab7b6&token=1781672547-c5131736f5934ddba9a57f7ca3b971c9-0-9508f7f6c989f3e40471daca832ab7b6
-#EXTINF:-1 tvg-name="FIFA(Tv2)" 
-https://live.mana2.my/Tv2/index.m3u8?auth_key=1781672633-9f498f5cc50c43a18c2ca3f7e1bc4916-0-43198b59ab02c857754b3ad65fa92410&token=1781672633-9f498f5cc50c43a18c2ca3f7e1bc4916-0-43198b59ab02c857754b3ad65fa92410
-#EXTINF:-1 tvg-name="RTM Sukan+" 
-https://live.mana2.my/SukanRtm/tracks-v2a1/mono.m3u8?token=1781673222-0e19c12bf6ec45948ccfefecc1a16a94-0-75c4ef1d5bf608b5839d4c75ebb32664&auth_key=1781673222-0e19c12bf6ec45948ccfefecc1a16a94-0-0e965c656d97a3eb44035cfdd4ee1826
-#EXTINF:-1 tvg-name="FIFA(Okey)" 
-https://live.mana2.my/TvOkey/index.m3u8?auth_key=1781672703-f65fe6af320b4aa3b461bfe884f23752-0-4c8b71e8b285da8dc91468f66e4949e1&token=1781672703-f65fe6af320b4aa3b461bfe884f23752-0-4c8b71e8b285da8dc91468f66e4949e1
 #EXTINF:-1 tvg-name="FIFA Live(Ch1)" 
-https://funn-g1047.huibo.tv/GE/H20/chunks.m3u8?p=46&cf=1781659765&d=&ip=123.20.17.211&e=1781660365&h=a534dc9121285b1ebcb52ddc407f286e
+https://fv1047.huibo.tv/GE/K20/chunks.m3u8?wsSecret=fd77f73897900ab7fde777d132305646&wsTime=1781739657
 #EXTINF:-1 tvg-name="FIFA Live(Ch2)" 
-https://tfwt3geadrmtzgwzdnpbzfa5uo.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60226923-hydra-wsu/playlist.m3u8?wsSecret=d0f2b74df4bace4fb302dd656c628d0c&wsABSTime=6a32381c&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjExMy4yMTEuMTE3LjI0NyIsInVpZCI6IjYwMjI2OTIzIiwiaWF0IjoxNzgxNjU5ODIxLCJleHAiOjE3ODE2NjA0MjF9.Jgy54L7EykxMxaY5ctAyULFIdUe1QRnjh3AF9j-iNoo&opt=1&wsSession=d3396f7e9b60eae5a43140db-178165987909904&wsIPSercert=8603181abded5ffaa31c082cd34604e9&wsBindIP=2&wsserid=1168172518105106507
-#EXTINF:-1 tvg-name="FIFA Live(Ch3)" 
-https://tfwt3geadrmtzgwzdnpbzfa5uo.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60226923-saturn-wsu/playlist.m3u8?wsSecret=0ce255a4350a417b7b5591b7abdc7f31&wsABSTime=6a32381c&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjExMy4yMTEuMTE3LjI0NyIsInVpZCI6IjYwMjI2OTIzIiwiaWF0IjoxNzgxNjU5ODIxLCJleHAiOjE3ODE2NjA0MjF9.Jgy54L7EykxMxaY5ctAyULFIdUe1QRnjh3AF9j-iNoo&opt=1&wsSession=e9c9beb7fad59780f962551b-178165994111593&wsIPSercert=8603181abded5ffaa31c082cd34604e9&wsBindIP=2&wsserid=1168172518103009299
-#EXTINF:-1 tvg-name="Berita RTM" 
-https://live.mana2.my/BeritaRtm/index.m3u8?auth_key=1781672825-9dd66d7f40f041a89bfc4298c23463a5-0-1d1acbd579f0291ca42325c7c441c936&token=1781672825-9dd66d7f40f041a89bfc4298c23463a5-0-1d1acbd579f0291ca42325c7c441c936
+https://tfwt3geadrmtzgwzdnpbzfa5uo.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60226927-hydra-wsu/playlist.m3u8?wsSecret=d51aec9308478be696127ef5ca2605c4&wsABSTime=6a336d7c&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjExMy4yMTEuMTE3LjI0NyIsInVpZCI6IjYwMjI2OTI3IiwiaWF0IjoxNzgxNzM5MDYyLCJleHAiOjE3ODE3Mzk2NjJ9.pOP_B_xI6lgpVhx5GiboJZpZIwn7IBN5fyJVwpqXR1k&opt=1&wsSession=a2e3af0f034573605d5029a1-178173915100932&wsIPSercert=8603181abded5ffaa31c082cd34604e9&wsBindIP=2&wsserid=1168172518089377475
+#EXTINF:-1 tvg-name="FIFA Live(Ch4)" 
+https://tfwt3geadrmtzgwzdnpbzfa5uo.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60226927-saturn-wsu/playlist.m3u8?wsSecret=f4db02c5fa00612a4ab6e42ae1915c4a&wsABSTime=6a336d7c&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjExMy4yMTEuMTE3LjI0NyIsInVpZCI6IjYwMjI2OTI3IiwiaWF0IjoxNzgxNzM5MDYyLCJleHAiOjE3ODE3Mzk2NjJ9.pOP_B_xI6lgpVhx5GiboJZpZIwn7IBN5fyJVwpqXR1k&opt=1&wsSession=557569b073b41bb2d7861ee2-178173921268159&wsIPSercert=8603181abded5ffaa31c082cd34604e9&wsBindIP=2&wsserid=1168172518100912091
+#EXTINF:-1 tvg-name="FIFA Live(Ch6)" 
+https://tfwt3geadrmtzgwzdnpbzfa5uo.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60226927-merak-wsu/playlist.m3u8?wsSecret=ef3e40bec6cb70e9e196cbc40aa046e9&wsABSTime=6a336d7c&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjExMy4yMTEuMTE3LjI0NyIsInVpZCI6IjYwMjI2OTI3IiwiaWF0IjoxNzgxNzM5MDYyLCJleHAiOjE3ODE3Mzk2NjJ9.pOP_B_xI6lgpVhx5GiboJZpZIwn7IBN5fyJVwpqXR1k&opt=1&wsSession=d3396f7e9b60eae5a43140db-178173929337477&wsIPSercert=8603181abded5ffaa31c082cd34604e9&wsBindIP=2&wsserid=1168172518105106507
