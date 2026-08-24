@@ -1,0 +1,20 @@
+#EXTM3U
+# =======================================================
+# Last Update: 2025-12-29 12:29pm
+# Notes:
+# - Removed VLC-specific options (#EXTVLCOPT) because PotPlayer may not recognise them.
+# - Added mandatory #EXTM3U header.
+# - Commented-out non-HLS / unsupported URLs (YouTube) to avoid PotPlayer errors.
+# - Fixed a few EXTINF formatting issues.
+# =======================================================
+
+#EXTINF:-1 tvg-name="狄仁杰之玄龙六相" tvg-logo="https://img1.wsyzy.org/upload/vod/20260820-1/a284020560eed9e3e66f6b7178171b7e.jpg",狄仁杰之玄龙六相
+https://v14.wsyzym3u8.com/202608/20/miEyCWFgYx27/video/index.m3u8
+
+#EXTINF:-1 tvg-name="伏魔战神" tvg-logo="https://img1.wsyzy.org/upload/vod/20260816-1/fcc6f27faacad45dd0f25f64890384c7.jpg",伏魔战神
+https://v13.wsyzym3u8.com/202608/16/QX3FAHKzMR27/video/index.m3u8
+
+# If you need the YouTube-based Awani item available, uncomment and be aware PotPlayer
+# may not play it natively (requires youtube-dl or similar integration). It's commented
+# out to avoid PotPlayer error messages.
+
