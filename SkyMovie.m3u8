@@ -14,6 +14,9 @@ https://v14.wsyzym3u8.com/202608/20/miEyCWFgYx27/video/index.m3u8
 #EXTINF:-1 tvg-name="Resident Evil生化危机：爆发夜2026" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Resident_Evil_2026_film_poster.png",Resident Evil 2026
 https://hn.bfvvs.com/play/bqx2D13a/index.m3u8
 
+#EXTINF:-1 tvg-name="Alien Storm" tvg-logo="https://hongniuzyimage.com/cover/df377690b48e84274927475ca824125a.jpg",Alien Storm
+https://hn.bfvvs.com/play/dJ6Pzkgd/index.m3u8
+
 # If you need the YouTube-based Awani item available, uncomment and be aware PotPlayer
 # may not play it natively (requires youtube-dl or similar integration). It's commented
 # out to avoid PotPlayer error messages.
